@@ -1,0 +1,14 @@
+## API KEY
+
+## Editors
+**/.history
+**/.vs
+
+## Dir_dependency
+**/node_modules
+
+## OS 
+**/.DS_Store
+**/Thumbs.db
+
+## Other
